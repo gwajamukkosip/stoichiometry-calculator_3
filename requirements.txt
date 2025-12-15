@@ -1,5 +1,6 @@
-textstreamlit
+
 chempy>=0.8.1
 streamlit
 
 pubchempy>=1.0.5
+
